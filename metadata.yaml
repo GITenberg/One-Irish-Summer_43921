@@ -1,0 +1,28 @@
+_repo: One-Irish-Summer_43921
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43921-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Curtis, William Eleroy
+    alias: Curtis, Wm. E. (William Eleroy)
+    birthdate: 1850
+    deathdate: 1911
+    gutenberg_agent_id: '3885'
+    url: http://www.gutenberg.org/2009/agents/3885
+description: ''
+gutenberg_issued: '2013-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43921'
+  lccn: 09010946
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Description and travel'
+- !lcc 'DA'
+title: One Irish Summer
+url: http://www.gutenberg.org/ebooks/43921
